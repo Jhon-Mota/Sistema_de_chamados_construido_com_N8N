@@ -8,5 +8,5 @@ Logo após isso é enviado um e-mail para o criador do chamado confirmando a abe
 
 <img width="1447" height="679" alt="Image" src="https://github.com/user-attachments/assets/c567ffc3-e466-4916-bd33-d61e911cc9d1" /> <br>
 
-Espaços e status de tarefas do ClickUP. <br>
+Espaços e status de tarefas do ClickUP. <br><br>
 <img width="1896" height="754" alt="Image" src="https://github.com/user-attachments/assets/7f0343bb-c6e0-44d9-b597-4c798baa2d44" />
